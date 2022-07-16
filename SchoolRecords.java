@@ -9,7 +9,7 @@ public class SchoolRecords {
 	
 	}
 	void dispRecords() {
-		System.out.println("School Name Address Will be Showing");
+		System.out.println("School Name and Address Will be Showing");
 	}
 	
 
